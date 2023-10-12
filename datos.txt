@@ -1,0 +1,5 @@
+sueldo 
+Nombre  
+horas trabajadas
+valor de la hora 
+
